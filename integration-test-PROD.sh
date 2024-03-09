@@ -1,7 +1,7 @@
 #!/bin/bash
 sleep 5s
 
-# echo "ok"
+# added test
 # PORT=$(kubectl get svc ${serviceName} -o json | jq .spec.ports[].nodePort)
 
 ### Istio Ingress Gateway Port 80 - NodePort
